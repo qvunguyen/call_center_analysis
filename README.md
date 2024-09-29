@@ -1,6 +1,8 @@
 # call_center_analysis
 # Call Center Performance Analysis Report
 ![image](https://github.com/user-attachments/assets/bb0a7a7d-4962-47fd-976d-6f0406b67a5c)
+![image](https://github.com/user-attachments/assets/2e83bbd7-da13-4845-86fa-a09a06262740)
+
 
 
 ## Executive Summary
